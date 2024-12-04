@@ -1,4 +1,4 @@
-В данном сервисе разработал:
+# В данном микросервисе разработал:
   1. RecommendationServiceImpl для возможности давать/удалять/обновлять (и др.) рекомендацию:
        https://github.com/Amirhan2/user_service/blob/phoenix-master-stream6/src/main/java/school/faang/user_service/service/recommendation/RecommendationServiceImpl.java
   2. RecommendationController без REST API (не предусмотрено):
